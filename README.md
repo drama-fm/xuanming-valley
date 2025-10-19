@@ -7,10 +7,10 @@
 一、MOD概述
 
 名称：《玄明真君：修仙入谷》
-**类型：**剧情向NPC扩展MOD
-**兼容版本：**Stardew Valley 1.6+ / SMAPI 4.0+
-**语言：**中英双语支持
-**作者：**DRAMA FM
+**类型**：剧情向NPC扩展MOD
+**兼容版本**：Stardew Valley 1.6+ / SMAPI 4.0+
+**语言**：中英双语支持
+**作者**：DRAMA FM
 
 简介
 
